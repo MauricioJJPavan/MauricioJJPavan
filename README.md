@@ -18,7 +18,7 @@ para a Enviro Chemie e o sistema de gestão para a Alumínio Rodeio. Sem contar 
 - **Habilidades Adicionais:** Análise exploratória de dados, modelagem preditiva, gestão ágil (Scrum), ESG
 
 ## 🔗 Conecte-se comigo
-Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/mauricio-pavan/). Fique à vontade para entrar em contato por e-mail em [lucianaotnunes@gmail.com] ou pelas redes sociais mencionadas no meu perfil.
+Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/mauricio-pavan/). Fique à vontade para entrar em contato por e-mail em [mauricio.j.pavan@gmail.com] ou pelas redes sociais mencionadas no meu perfil.
 
 ## 📚 Educação e Certificações
 - **Análise de Sistemas:** ASSOEC, 1992-1993
