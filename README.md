@@ -17,8 +17,8 @@ para a Enviro Chemie e o sistema de gestão para a Alumínio Rodeio. Sem contar 
 - **Ferramentas:** Tableau, Power BI, Excel...
 - **Habilidades Adicionais:** Análise exploratória de dados, modelagem preditiva, gestão ágil (Scrum), ESG
 
-## 🔗 Conecte-se comigo
-Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/mauricio-pavan/). Fique à vontade para entrar em contato por e-mail em [mauricio.j.pavan@gmail.com] ou pelas redes sociais mencionadas no meu perfil.
+- ![image](https://github.com/MauricioJJPavan/MauricioJJPavan/assets/132507042/4a150de8-d62f-402c-8189-693453b1caec)
+
 
 ## 📚 Educação e Certificações
 - **Análise de Sistemas:** ASSOEC, 1992-1993
@@ -46,7 +46,7 @@ Destaco alguns cursos que contribuíram para minha formação:
 - Formação Microsoft Power BI Profissional
 - Green Digital Skills
 
-## 🚀 Habilidades
+## 🚀 Competências
 - **Análise de Dados:** Pleno
 - **Power BI:** Pleno
 - **ETL:** Pleno
@@ -69,3 +69,14 @@ Rotariano atuante em vários projetos sociais, membro da OSC União e Paz.
 Detalhes de alguns projetos notáveis em meu LinkedIn. [Veja aqui](https://www.linkedin.com/in/mauricio-pavan/).
 
 Se você estiver interessado em colaborar ou tiver oportunidades profissionais, ficarei feliz em ouvir de você! 💬
+
+## 🔗 Conecte-se comigo
+Você pode me encontrar no [LinkedIn](https://www.linkedin.com/in/mauricio-pavan/). Fique à vontade para entrar em contato por e-mail em [mauricio.j.pavan@gmail.com] ou pelas redes sociais mencionadas no meu perfil.
+
+
+
+## 🛠️ Teste Situacional
+Você tende a avaliar problema por problema e delegá-los para aqueles mais capacitados para resolvê-los, independente se for você ou não. Além disso, tende a dar e receber opiniões de forma moderada, analisando contextos para evitar se expor em exagero, mas também, evitando se fechar de forma definitiva. Você prefere ajudar e ser ajudado. Ao ponderar cada situação, você decide qual vale mais a pena enfrentar o conflito e qual minimizar o desgaste.
+
+## ![image](https://github.com/MauricioJJPavan/MauricioJJPavan/assets/132507042/4ffdb9e1-2b7f-48fa-92ac-ef74b79c30e3) Teste de Inferencia
+Você possui uma tendência em assumir algum grau de risco, ainda que prefira também lidar com comprovações e estrutura para realizar suas atividades. A sua motivação se concentra em arriscar-se um pouco diante das circunstâncias, desde que isso não gere um potencial de falha muito alto. No seu caso, é interessante buscar atividades profissionais que permitam flexibilidade na atuação e que também possuam algum direcionamento de como realizá-las.
