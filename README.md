@@ -1,11 +1,22 @@
 # 👋 Bem-vindo(a) ao meu perfil do GitHub! 
 
 ## 👩‍💻 Sobre Mim
-Sou um profissional com uma trajetória diversificada e rica em experiências na área de Análise de Sistemas e Dados. 
-Iniciei minha jornada em 1992 e, ao longo dos anos, desenvolvi habilidades em diversas áreas, Sistemas e linguagens de programação, Dados, Governança e Gestão Ágil com certificação em Scrum, 
-Sustentabilidade com certificação em ESG (Environmental, Social and Governance) e algumas SoftSkills. 
-Recentemente, concentro-me na expansão da minha expertise na Power Platform, especialmente no Power BI. 
-Estou sempre em busca de novos desafios que me permitam crescer profissionalmente, o que inclui a realização uma Pós graduação em Big Data muito em breve.
+Olá! Sou um entusiasta da tecnologia e da inovação com uma carreira repleta de realizações e aprendizado contínuo. Minha jornada começou há décadas, quando cursei Análise de Sistemas e, ao mesmo tempo, assumi a função de chefe de CPD na Drogaria 18 do Forte. Desde então, venho trilhando um caminho de crescimento e descobertas.
+
+Durante minha carreira, aprimorei minhas habilidades em desenvolvimento de software, inicialmente com Delphi e, posteriormente, migrando para a plataforma da Microsoft. Também tive a oportunidade de compartilhar meu conhecimento como professor de informática básica e avançada na Faetec Cetep Imbarie, em 2006.
+
+Como Analista de Sistemas autônomo, acumulei uma vasta experiência trabalhando em diversos projetos, desde a fase de concepção até a implantação, para uma variedade de clientes. Minha expertise abrange HTML, JavaScript, .Net e, mais recentemente, o emocionante mundo do Power Platform, com foco no adorado Power BI.
+
+Minha paixão pelo Agile e Scrum me levou a me tornar um Especialista em Gestão Ágil Scrum Master, sempre em busca de maneiras inovadoras de gerenciar projetos de forma eficiente.
+
+Além disso, minha dedicação à causa ambiental me levou a me especializar em ESG, acreditando no potencial da tecnologia para promover mudanças positivas no mundo.
+
+Como Analista de Dados experiente, meu objetivo é transformar dados complexos em informações valiosas para a tomada de decisões estratégicas.
+
+No momento, estou embarcando em uma empolgante Jornada de Formação em Projetos com o grupo Voitto, buscando constantemente o aprimoramento e o crescimento, e MBA Data Warehouse e Business Intelligence.
+
+Convido você a se juntar a mim nessa jornada de aprendizado e descoberta. Vamos explorar juntos o mundo da tecnologia, inovação e gestão ágil. Estou aqui para compartilhar conhecimento, insights e inspiração. Vamos nos conectar e crescer juntos!
+
 
 ## 🚀 Projetos
 Estou constantemente atualizando meu portfólio, aplicando os conhecimentos adquiridos em projetos desafiadores. 
